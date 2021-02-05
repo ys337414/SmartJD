@@ -1,4 +1,3 @@
-﻿(function () {
 
     const JSONP = "jsonp";
 
